@@ -1,6 +1,6 @@
 This repository contains all the necessary modules used to develop a multi-compartment plant uptake model and further link it with the Global Sensitivity Analysis and parameter estimation algorithms
 
-The description of the provided scripts and datasets for dynamic plant uptake (DPU) model is as follows:
+The description of the provided scripts and datasets for the dynamic plant uptake (DPU) model is as follows:
 
 inputs.csv is the dataset for the DPU model parameters, which are constant over time
 time_varying_data.csv is similar to the previous; this is the dataset for the parameters that are defined as time-varying for the model.
